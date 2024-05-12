@@ -3,7 +3,15 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Welcome to my git page </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> I'm Taegeon Park. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> I'm Taegeon Park. <br><br>
+        As a software engineer specializing in the field of artificial intelligence, my expertise lies in developing models using reinforcement learning. I have successfully developed advanced manipulation models for robotic arms using offline reinforcement learning techniques and designed systems for efficient allocation of frequency resources in complex multi-agent environments. Additionally, I have developed depression diagnosis models using a multimodal approach integrating various data modalities (images, voice, text), demonstrating my ability to solve complex problems.<br><br>
+
+I also possess strong experience as a hardware technology engineer and quality manager in the manufacturing sector. My practical experience has given me a comprehensive understanding of both hardware and software integration, where I have excelled in meticulous analysis and prompt issue resolution in product quality management. These diverse experiences have significantly contributed to my growth as a highly skilled engineer.<br><br>
+
+- Reinforcement Learning Modeling
+- Computer Vision AI Engineering
+- Communication Systems Hardware Engineering
+- Quality Assurance for Electro-Optical Detection Equipment </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
@@ -21,7 +29,11 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=mailto:aaaaaa> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aaaaaa"> </a>
-          </div>  <br> 
+
+  <a href="https://www.linkedin.com/in/your-linkedin-username">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-username" />
+  </a>
+
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
