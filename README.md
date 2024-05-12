@@ -30,7 +30,7 @@ I also possess strong experience as a hardware technology engineer and quality m
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=mailto:aaaaaa> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aaaaaa"> </a>
 
-  <a href="https://www.linkedin.com/in/your-linkedin-username">
+  <a href="https://www.linkedin.com/in/taegeon-park-54ba08251/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-username" />
   </a>
 
