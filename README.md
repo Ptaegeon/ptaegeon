@@ -36,12 +36,13 @@ I also possess strong experience as a hardware technology engineer and quality m
 
     <div style="text-align: left;">  </div> 
     </div>
-<!--     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
-      <div style="text-align: left;"> <!--   <img src="https://github-readme-stats.vercel.app/api?username=taegeon&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
-         /> --><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taegeon&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
-           /> </div> 
-    </div> -->
+     <div style="text-align: left;"> 
+      <div style="text-align: left;"> 
+      </div> 
+    </div>
+<!--     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stat s </h2> 
+           <img src="https://github-readme-stats.vercel.app/api?username=taegeon&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taegeon&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/>  -->
     
     
 <!--  
